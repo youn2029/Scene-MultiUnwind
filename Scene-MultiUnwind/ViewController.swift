@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    // page1이라는 이정표
+    @IBAction func gotoPage1(_ segue : UIStoryboardSegue){
+        
+    }
 
 
 }
